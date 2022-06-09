@@ -5,7 +5,7 @@
     gap: 0.8rem;
     position: absolute;
     left: 0;
-    bottom: 2rem;
+    bottom: 15rem;
 }
 
 .header_socials::after {
@@ -13,5 +13,13 @@
     width: 1px;
     height: 2rem;
     background: var(--color-primary);
+
+}
+
+/* =====================Media queries (smalldevices) =====================*/
+@media screen and (max-width:600px) {
+    .header_socials {
+        display: none;
+    }
 
 }
