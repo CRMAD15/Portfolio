@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { AiOutlineHome, AiOutlineUser } from 'react-icons/ai'
 import { BiBook, BiMessageAltDetail } from 'react-icons/bi'
-import { RiServiceLine } from 'react-icons/ri'
+// import { RiServiceLine } from 'react-icons/ri'
 
 import "./nav.css"
 
@@ -12,8 +12,8 @@ const Nav = () => {
         <nav>
             <a href="/#" onClick={() => setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><AiOutlineHome /></a>
             <a href="/#about" onClick={() => setActiveNav('#about')} className={activeNav === '#about' ? 'active' : ''}><AiOutlineUser /></a>
-            <a href="/#expirience" onClick={() => setActiveNav('#expirience')} className={activeNav === '#expirience' ? 'active' : ''}><BiBook /></a>
-            <a href="/#skills" onClick={() => setActiveNav('#skills')} className={activeNav === '#skills' ? 'active' : ''}><RiServiceLine /></a>
+            <a href="/#experience" onClick={() => setActiveNav('#expirience')} className={activeNav === '#expirience' ? 'active' : ''}><BiBook /></a>
+            {/* <a href="/#skills" onClick={() => setActiveNav('#skills')} className={activeNav === '#skills' ? 'active' : ''}><RiServiceLine /></a> */}
             <a href="/#contact" onClick={() => setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}><BiMessageAltDetail /></a>
 
         </nav >

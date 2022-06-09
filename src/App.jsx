@@ -6,7 +6,7 @@ import Footer from './components/Footer/Footer'
 import Header from './components/Header/Header'
 import Nav from './components/Nav/Nav'
 import Portfolio from './components/Portfolio/Portfolio'
-import Skills from './components/Skills/Skills'
+// import Skills from './components/Skills/Skills'
 
 function App() {
     return (
@@ -15,7 +15,7 @@ function App() {
             <Nav />
             <About />
             <Experience />
-            <Skills />
+            {/* <Skills /> */}
             <Portfolio />
             <Contact />
             <Footer />

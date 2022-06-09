@@ -35,14 +35,14 @@ header {
 /* =====================Media queries (medium devices) =====================*/
 @media screen and (max-width:1024px) {
 
-    .header {
-        height: 68vh;
+    header {
+        height: 78vh;
     }
 }
 
 /* =====================Media queries (smalldevices) =====================*/
 @media screen and (max-width:600px) {
-    .header {
+    header {
         height: 100vh;
     }
 
