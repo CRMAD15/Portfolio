@@ -14,25 +14,32 @@ const Portfolio = () => {
                         <img src={Pokered} alt="pokered" />
                     </div>
                     <h3>this is a portfolio item title</h3>
-                    <a href="htts//github.com" className="btn" target="_blank">Github</a>
-                    <a href="htts//github.com" className="btn btn-primary" target="_blank">Deployed</a>
+                    <div className="portfolio_item-cta">
+                        <a href="htts//github.com" className="btn" target="_blank">Github</a>
+                        <a href="htts//github.com" className="btn btn-primary" target="_blank">Deployed</a>
+                    </div>
                 </article>
                 <article className="portfolio_item">
                     <div className="portfolio_item-image">
                         <img src={Pokered} alt="pokered" />
                     </div>
                     <h3>this is a portfolio item title</h3>
-                    <a href="htts//github.com" className="btn" target="_blank">Github</a>
-                    <a href="htts//github.com" className="btn btn-primary" target="_blank">Deployed</a>
+                    <div className="portfolio_item-cta">
+                        <a href="htts//github.com" className="btn" target="_blank">Github</a>
+                        <a href="htts//github.com" className="btn btn-primary" target="_blank">Deployed</a>
+                    </div>
                 </article>
                 <article className="portfolio_item">
                     <div className="portfolio_item-image">
                         <img src={Pokered} alt="pokered" />
                     </div>
                     <h3>this is a portfolio item title</h3>
-                    <a href="htts//github.com" className="btn" target="_blank">Github</a>
-                    <a href="htts//github.com" className="btn btn-primary" target="_blank">Deployed</a>
+                    <div className="portfolio_item-cta">
+                        <a href="htts//github.com" className="btn" target="_blank">Github</a>
+                        <a href="htts//github.com" className="btn btn-primary" target="_blank">Deployed</a>
+                    </div>
                 </article>
+
             </div>
         </section>
     )
