@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "image": "Re-educ.png",
+        "title": "Re-educ",
+        "github": "https://github.com/Gao83/re_educ-client",
+        "demo": "https://re-educ.netlify.app/"
+    },
+    {
+        "id": 2,
+        "image": "Pokered.png",
+        "title": "Pokered",
+        "github": "https://github.com/CRMAD15/Pokered",
+        "demo": "https://pokeredex.herokuapp.com/"
+    },
+    {
+        "id": 3,
+        "image": "Tenet.png",
+        "title": "Tenet-game",
+        "github": "https://github.com/CRMAD15/Pokered",
+        "demo": "https://pokeredex.herokuapp.com/"
+    }
+]

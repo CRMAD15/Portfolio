@@ -1,4 +1,4 @@
-import ReAct from 'react'
+import React from 'react'
 import "./about.css"
 import Me from "../../assets/me-about.jpg"
 import { BsAwardFill } from 'react-icons/bs'

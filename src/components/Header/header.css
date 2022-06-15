@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:300,400|Poppins:300,400,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
 header {
     height: 120vh;
     padding-top: 7rem;
@@ -8,6 +11,15 @@ header {
     text-align: center;
     height: 100%;
     position: relative;
+    text-shadow: 2px 1px 1px rgba(119, 119, 119, 0.5);
+}
+
+.header_container h1 {
+    color: var(--color-white);
+    font-family: 'Anton', sans-serif;
+    font-weight: 100;
+    letter-spacing: 0.7rem;
+
 }
 
 .me {
@@ -36,7 +48,7 @@ header {
 @media screen and (max-width:1024px) {
 
     header {
-        height: 100vh;
+        height: 80vh;
     }
 }
 

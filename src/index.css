@@ -11,10 +11,10 @@
 }
 
 :root {
-    --color-bg: #1f1f38;
-    --color-bg-variant: #2c2c6c;
-    --color-primary: #4db5ff;
-    --color-primary-variant: rgba(77, 181, 255, 0.4);
+    --color-bg: #DDDBCB;
+    --color-bg-variant: #1B9AAA;
+    --color-primary: #050505;
+    --color-primary-variant: rgba(27, 154, 170, 0.4);
     --color-white: #fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
@@ -40,7 +40,7 @@ body {
     color: var(--color-white);
     line-height: 1.7;
     background-image: url(../src/assets/bg-texture.png);
-    background-size: 0.3em;
+    background-size: 20rem;
 }
 
 /*=================GENERAL STYLES===========*/
