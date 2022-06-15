@@ -1,6 +1,6 @@
 .portfolio_container {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 200fr 1fr;
     gap: 2.5rem;
 }
 
@@ -10,12 +10,22 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
+    margin: auto 2rem;
 }
 
-.portfolio_item:hover {
-    border-color: var(--color-primary-variant);
-    background: transparent;
+button.rec-dot {
+    background-color: rgb(74, 74, 74);
+    box-shadow: 0 0 1px 3px rgba(75, 75, 75, 0.5);
 }
+
+
+
+/* button.rec-dot:hover,
+button.rec-dot:active,
+button.rec-dot:focus {
+    box-shadow: 0 0 1px 3px rgba(168, 168, 168, 0.5);
+} */
+
 
 .portfolio_item-image {
     border-radius: 1.5rem;

@@ -19,30 +19,31 @@ function About() {
 
                 <div className="about_content">
                     <div className="about_cards">
-                        <article className="about_card">
-                            <BsAwardFill className='about_icon' />
-                            <h5>Experience</h5>
-                            <small> Junior</small>
-                        </article>
-
-                        <article className="about_card">
-                            <FiUsers className='about_icon' />
-                            <h5>Clients</h5>
-                            <small> ...</small>
-                        </article>
-
-                        <article className="about_card">
-                            <BsFillFolderFill className='about_icon' />
-                            <h5>Projects</h5>
-                            <small> 3 completed </small>
-                        </article>
-
+                        <a href="/#experience">
+                            <article className="about_card">
+                                <BsAwardFill className='about_icon' />
+                                <h5>Experience</h5>
+                                <small> Junior</small>
+                            </article>
+                        </a>
+                        <a href="/#contact">
+                            <article className="about_card">
+                                <FiUsers className='about_icon' />
+                                <h5>Contact</h5>
+                                <small> 676624418</small>
+                            </article>
+                        </a>
+                        <a href="/#portfolio">
+                            <article className="about_card">
+                                <BsFillFolderFill className='about_icon' />
+                                <h5>Projects</h5>
+                                <small> 3 completed </small>
+                            </article>
+                        </a>
                     </div>
 
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Nam dolorum, aliquam ex laudantium sed officia dignissimos voluptas iste ea eligendi consequuntur, libero necessitatibus ratione vitae provident molestias dicta neque itaque!
-
-                    </p>
+                        I am a web developer with a background in the 3D world. I've always been attracted to technology and learning to program has always been that gap I wanted to fill, now that I've started I'm realizing that I like it more and more. Javascript is my main programming language but I'm looking forward to feel able to learn some more.                    </p>
                     <a href="#contact" className='btn btn-primary'>Let´s talk</a>
                 </div>
             </div>

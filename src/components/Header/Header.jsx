@@ -10,7 +10,6 @@ import { useTypewriter } from 'react-simple-typewriter'
 function Header() {
   const { text } = useTypewriter({
     words: ['Cristian Calderón'],
-
     loop: 1,
     cursor: true,
     cursorStyle: '_'
@@ -23,19 +22,8 @@ function Header() {
         <h5>Hello i'm </h5>
         <div className='movement'>
           <h1>
-
             <span>
               {text}
-              {/* <Typewriter
-            words={['CRISTIAN', 'CALDERÓN', 'BRONCANO']}
-            loop={5}
-            cursor
-            typeSpeed={70}
-            deleteSpeed={50}
-            delaySpeed={1000}
-            onLoopDone={handleDone}
-            onType={handleType}
-          /> */}
             </span>
           </h1>
 

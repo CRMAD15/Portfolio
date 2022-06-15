@@ -15,8 +15,11 @@
     --color-bg-variant: #1B9AAA;
     --color-primary: #050505;
     --color-primary-variant: rgba(27, 154, 170, 0.4);
+    --color-text-small: #fff;
+
     --color-white: #fff;
-    --color-light: rgba(255, 255, 255, 0.6);
+    --color-light: rgba(56, 56, 56, 0.6);
+    /* --color-light: rgba(255, 255, 255, 0.8); */
 
     --transition: all 400ms ease;
 

@@ -3,7 +3,7 @@
         "id": 1,
         "image": "Re-educ.png",
         "title": "Re-educ",
-        "github": "https://github.com/Gao83/re_educ-client",
+        "github": "https://github.com/CRMAD15/re_educ-client",
         "demo": "https://re-educ.netlify.app/"
     },
     {
@@ -17,7 +17,7 @@
         "id": 3,
         "image": "Tenet.png",
         "title": "Tenet-game",
-        "github": "https://github.com/CRMAD15/Pokered",
-        "demo": "https://pokeredex.herokuapp.com/"
+        "github": "https://github.com/CRMAD15/TENET",
+        "demo": "https://github.com/CRMAD15/TENET"
     }
 ]
