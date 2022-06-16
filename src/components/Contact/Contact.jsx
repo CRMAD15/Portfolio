@@ -29,7 +29,7 @@ function Contact() {
                         <AiOutlineMail className='contact_option-icon' />
                         <h4>Email</h4>
                         <h5>cristianfab90@gmail.com</h5>
-                        <a href="mailto:cristianfab90@gmail.com" target="_blank" rel='noreferrer'>Send a email</a>
+                        <a href="mailto:cristianfab90@gmail.com" target="_blank" rel='noreferrer' className='btn send-email'>Send a email</a>
                     </article>
                     <article className="contact_option">
                         <AiOutlineWhatsApp className='contact_option-icon' />

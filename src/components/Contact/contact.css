@@ -49,8 +49,14 @@ textarea {
     background: transparent;
     border: 2px solid var(--color-primary-variant);
     resize: none;
-    color: var(--color-white);
+    color: black;
 }
+
+.send-email {
+    background: var(--color-bg);
+
+}
+
 
 /* =====================Media queries (medium devices) =====================*/
 @media screen and (max-width:1024px) {
