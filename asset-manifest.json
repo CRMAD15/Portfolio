@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfolio/static/css/main.1860fa51.chunk.css",
-  "main.js": "/Portfolio/static/js/main.5dd274d7.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.5dd274d7.chunk.js.map",
+  "main.css": "/Portfolio/static/css/main.64f1c73f.chunk.css",
+  "main.js": "/Portfolio/static/js/main.2e9cf860.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.2e9cf860.chunk.js.map",
   "static/js/1.ac167ac5.chunk.js": "/Portfolio/static/js/1.ac167ac5.chunk.js",
   "static/js/1.ac167ac5.chunk.js.map": "/Portfolio/static/js/1.ac167ac5.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
@@ -13,14 +13,8 @@
   "static/media/Re-educ.png": "/Portfolio/static/media/Re-educ.20b112f5.png",
   "static/media/Tenet.png": "/Portfolio/static/media/Tenet.08a75b49.png",
   "static/media/index.css": "/Portfolio/static/media/bg-texture.3d36c210.png",
-  "static/media/portfolio1.jpg": "/Portfolio/static/media/portfolio1.d1e8fb80.jpg",
-  "static/media/portfolio2.jpg": "/Portfolio/static/media/portfolio2.13db5e22.jpg",
-  "static/media/portfolio3.jpg": "/Portfolio/static/media/portfolio3.ce79413f.jpg",
-  "static/media/portfolio4.jpg": "/Portfolio/static/media/portfolio4.04dbe3ab.jpg",
-  "static/media/portfolio5.png": "/Portfolio/static/media/portfolio5.c6e34db9.png",
-  "static/media/portfolio6.jpg": "/Portfolio/static/media/portfolio6.32a90284.jpg",
-  "static/css/main.1860fa51.chunk.css.map": "/Portfolio/static/css/main.1860fa51.chunk.css.map",
+  "static/css/main.64f1c73f.chunk.css.map": "/Portfolio/static/css/main.64f1c73f.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.b199633311cc9c4637b942a79cae19ce.js": "/Portfolio/precache-manifest.b199633311cc9c4637b942a79cae19ce.js",
+  "precache-manifest.b3e11bf3f3eee8acbbdb3e5fb6f32815.js": "/Portfolio/precache-manifest.b3e11bf3f3eee8acbbdb3e5fb6f32815.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
