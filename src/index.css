@@ -11,15 +11,21 @@
 }
 
 :root {
-    --color-bg: #DDDBCB;
-    --color-bg-variant: #1B9AAA;
-    --color-primary: #050505;
-    --color-primary-variant: rgba(27, 154, 170, 0.4);
+    --color-bg: #d2d2d2;
+    --color-bg-variant: #929292;
+    --color-primary: #1d1d1d;
+    --color-primary-variant: rgba(0, 0, 0, 0.4);
     --color-text-small: #fff;
 
     --color-white: #fff;
     --color-light: rgba(56, 56, 56, 0.6);
     /* --color-light: rgba(255, 255, 255, 0.8); */
+    font-style: ;
+
+
+
+
+
 
     --transition: all 400ms ease;
 
@@ -35,7 +41,9 @@ html {
 
 ::-webkit-scrollbar {
     display: none;
+
 }
+
 
 body {
     font-family: "Poppins", sans-serif;
