@@ -19,21 +19,21 @@ function About() {
 
                 <div className="about_content">
                     <div className="about_cards">
-                        <a href="/#experience">
+                        <a href="#experience">
                             <article className="about_card">
                                 <BsAwardFill className='about_icon' />
                                 <h5>Experience</h5>
                                 <small> Junior</small>
                             </article>
                         </a>
-                        <a href="/#contact">
+                        <a href="#contact">
                             <article className="about_card">
                                 <FiUsers className='about_icon' />
                                 <h5>Contact</h5>
                                 <small> 676624418</small>
                             </article>
                         </a>
-                        <a href="/#portfolio">
+                        <a href="#portfolio">
                             <article className="about_card">
                                 <BsFillFolderFill className='about_icon' />
                                 <h5>Projects</h5>
