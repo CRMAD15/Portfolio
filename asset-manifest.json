@@ -1,7 +1,7 @@
 {
-  "main.css": "/Portfolio/static/css/main.2fb8ffac.chunk.css",
-  "main.js": "/Portfolio/static/js/main.4b3c6a2b.chunk.js",
-  "main.js.map": "/Portfolio/static/js/main.4b3c6a2b.chunk.js.map",
+  "main.css": "/Portfolio/static/css/main.d08c8db6.chunk.css",
+  "main.js": "/Portfolio/static/js/main.f03d81ae.chunk.js",
+  "main.js.map": "/Portfolio/static/js/main.f03d81ae.chunk.js.map",
   "static/js/1.ac167ac5.chunk.js": "/Portfolio/static/js/1.ac167ac5.chunk.js",
   "static/js/1.ac167ac5.chunk.js.map": "/Portfolio/static/js/1.ac167ac5.chunk.js.map",
   "runtime~main.js": "/Portfolio/static/js/runtime~main.3b961160.js",
@@ -14,8 +14,8 @@
   "static/media/Tenet.png": "/Portfolio/static/media/Tenet.08a75b49.png",
   "static/media/index.css": "/Portfolio/static/media/bg-texture.eaaf863f.png",
   "static/media/meefwfe.jpg": "/Portfolio/static/media/meefwfe.3aa09246.jpg",
-  "static/css/main.2fb8ffac.chunk.css.map": "/Portfolio/static/css/main.2fb8ffac.chunk.css.map",
+  "static/css/main.d08c8db6.chunk.css.map": "/Portfolio/static/css/main.d08c8db6.chunk.css.map",
   "index.html": "/Portfolio/index.html",
-  "precache-manifest.271d00b0bee4553ac63f1e21716513e0.js": "/Portfolio/precache-manifest.271d00b0bee4553ac63f1e21716513e0.js",
+  "precache-manifest.196e206b659357def0e6830ad86c65f9.js": "/Portfolio/precache-manifest.196e206b659357def0e6830ad86c65f9.js",
   "service-worker.js": "/Portfolio/service-worker.js"
 }
