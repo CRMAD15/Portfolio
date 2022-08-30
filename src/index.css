@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&family=Quicksand:wght@300;500&display=swap');
 
+
 * {
     margin: 0;
     padding: 0;
@@ -20,7 +21,7 @@
     --color-white: #fff;
     --color-light: rgba(56, 56, 56, 0.6);
     /* --color-light: rgba(255, 255, 255, 0.8); */
-    font-style: ;
+    font-style: normal;
 
 
 

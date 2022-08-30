@@ -19,5 +19,12 @@
         "title": "Tenet-game",
         "github": "https://github.com/CRMAD15/TENET",
         "demo": "https://github.com/CRMAD15/TENET"
+    },
+    {
+        "id": 4,
+        "image": "Weatherapp.png",
+        "title": "Weather_app",
+        "github": "https://github.com/CRMAD15/weather-app",
+        "demo": "https://crmad15.github.io/weather-app/"
     }
 ]
